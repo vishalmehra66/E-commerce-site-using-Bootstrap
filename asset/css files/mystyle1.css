@@ -94,10 +94,10 @@ p{
     position:relative;
 } 
 .home .home-banner-1{
-    background-image:url('asset/images/crousal3.jpg');
+    background-image:url('/asset/images/crousal3.jpg');
 }
 .home .home-banner-2{
-    background-image:url('asset/images/crousal4.jpg');
+    background-image:url('/asset/images/crousal4.jpg');
 }
 
 .home-banner-text{
