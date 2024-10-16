@@ -94,14 +94,12 @@ p{
     position:relative;
 } 
 .home .home-banner-1{
-    background-image:url('./asset/images/crousal3.jpg');
+    background-image:url('asset/images/crousal3.jpg');
 }
 .home .home-banner-2{
-    background-image:url('./asset/images/crousal4.jpg');
+    background-image:url('asset/images/crousal4.jpg');
 }
-/* .home .home-banner-3{
-    background-image:url('/asset/images/crousal4.png');
-} */
+
 .home-banner-text{
     width: 400px;
     position: absolute;
