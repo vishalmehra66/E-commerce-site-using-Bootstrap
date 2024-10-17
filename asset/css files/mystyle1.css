@@ -92,8 +92,8 @@ p{
     background-position: 90% center;
     min-height: 650px;
     position:relative;
-} 
-<<<<<<< HEAD
+
+}
 
 .home .home-banner-1 {
     background-image: url('/asset/images/crousal3.jpg');
@@ -101,37 +101,14 @@ p{
     background-repeat: no-repeat;
     background-position: center;
 }
-.home .home-banner-2 {
-    background-image: url('/asset/images/crousal4.jpg');
-    background-size: cover;
-=======
-.home .home-banner-1 {
-    background-image: url('/asset/images/crousal3.jpg');
-    background-size: cover; /* or 'contain' depending on your needs */
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 .home .home-banner-1 {
     background-image: url('/asset/images/crousal4.jpg');
-    background-size: cover; /* or 'contain' depending on your needs */
->>>>>>> fcbefcef60ae3051c7abac65bd2dcdfe877a973b
+    background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
 }
 
-
-<<<<<<< HEAD
-/* .home-banner-text{
-=======
-
-.home-banner-text{
->>>>>>> fcbefcef60ae3051c7abac65bd2dcdfe877a973b
-    width: 400px;
-    position: relative;
-    border: #777 2px solid;
-    background-color: rgb(230, 219, 219);
-    padding: 10px;
-} */
 
 .home .home-banner .home-banner-text{
     position:absolute;
