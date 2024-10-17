@@ -108,23 +108,24 @@ p{
 }
 
 
-.home-banner-text{
+/* .home-banner-text{
     width: 400px;
-    position: absolute;
+    position: relative;
     border: #777 2px solid;
     background-color: rgb(230, 219, 219);
     padding: 10px;
-}
+} */
 
 .home .home-banner .home-banner-text{
     position:absolute;
     top:70%;
-    left:40%;
+    left:50%;
     transform:translate(-110%, -50%)
 }
 .home .home-banner .home-banner-text h1{
     font-size: 4rem;
-    color: #ed1111;
+    color: #be1a1a;
+    background-color: rgba(222, 235, 247, 0.562);
 }
 .home .home-banner .home-banner-text h1 span{
     font-size: 3rem;
@@ -133,6 +134,7 @@ p{
 .home .home-banner .home-banner-text h2{
     font-size: 2rem;
     color: #f00f0f;
+    background-color: rgba(222, 235, 247, 0.562);
 }
 .home .carousel-indicators [data-bs-target]{
     background-color:var(--bg-danger);
